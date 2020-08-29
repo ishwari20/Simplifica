@@ -12,15 +12,15 @@ th {
 
 #first {
   padding-top: 80px;
-      height: 740px;
+      height: 850px;
 }
 #second{
-  padding-top: 50px;
-height:800px;
+  padding-top: 40px;
+height:850px;
 }
 #third{
   padding-top:40px ;
-  height:700px;
+  height:900px;
 }
 
 #title {
@@ -66,7 +66,7 @@ height:800px;
 
 .first_group {
   background-color: #f8bb00;
-  height: 500px;
+  height: 640px;
   width: 1100px;
   top: 100px;
   left: 150px;
@@ -77,7 +77,7 @@ height:800px;
 
 .second_group {
   background-color: #f8bb00;
-  height: 600px;
+  height: 650px;
   width: 1100px;
   top: 100px;
   left: 150px;
@@ -88,7 +88,7 @@ height:800px;
 
 .third_group {
   background-color: #f8bb00;
-  height: 500px;
+  height: 700px;
   width: 1100px;
   top: 100px;
   bottom: 200px;
@@ -112,25 +112,35 @@ height:800px;
 h1{
   padding-bottom: 5px;
 }
-.table1{
-  padding-left: 150px;
-    padding-top: 80px;
-    padding-right: 80px;
-}
-.collegegirl{
-  position: relative;
-    bottom: 306px;
-    left: 530px;
-}
-  .boy{
+.text{
+  width: 70%;
     position: relative;
-        bottom: 504px;
-        height: 800px;
-        left: 390px;
-
-  }
-  .techgirl{
-    position: absolute;
-    top: 1925px;
-    right:300px;
-  }
+    left: 180px;
+    text-align: center;
+}
+h1{
+  align-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+.p1{
+  padding-top: 30px;
+}
+.boy{
+  position: relative;
+      bottom: 580px;
+      height: 798px;
+      left: 750px;
+}
+.businessgirl{
+  position: relative;
+    bottom: 480px;
+    right: 480px;
+    height: 550px;
+}
+.businessman{
+  position: absolute;
+top: 155px;
+left: 610px;
+height: 600px;
+}

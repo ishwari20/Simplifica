@@ -16,7 +16,7 @@ public class CareerSelector {
 	
 	public CareerSelector() {
 		featureToCareer.put("Research Work", "Engineering");
-		featureToCareer.put("Administrative Tasks", "Business Administration");
+		featureToCareer.put("Administrative Task", "Business Administration");
 		featureToCareer.put("Logical Thinking", "Design");
 		featureToCareer.put("Welfare", "Medical");
 		featureToCareer.put("Empathy", "Medical");

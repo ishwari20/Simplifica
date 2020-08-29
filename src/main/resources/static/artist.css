@@ -12,20 +12,37 @@ th {
 
 #first {
   padding-top: 80px;
-      height: 740px;
+      height: 700px;
 }
 #second{
-  padding-top: 50px;
+  padding-top: 30px;
 height:800px;
 }
 #third{
-  padding-top:40px ;
+  padding-top:10px ;
   height:700px;
 }
 
 #title {
   background-color: #f8bb00;
   padding-bottom: 50px;
+}
+.boy{
+  position: relative;
+      bottom: 530px;
+      height: 800px;
+      left: 730px;
+
+}
+.collegegirl{
+  position: relative;
+      bottom: 310px;
+      right: 460px;
+}
+.businessgirl{
+  position: absolute;
+    top: 140px;
+    right: 700px;
 }
 
 .container-fluid {
@@ -88,7 +105,7 @@ height:800px;
 
 .third_group {
   background-color: #f8bb00;
-  height: 500px;
+  height: 550px;
   width: 1100px;
   top: 100px;
   bottom: 200px;
@@ -112,25 +129,17 @@ height:800px;
 h1{
   padding-bottom: 5px;
 }
-.table1{
-  padding-left: 150px;
-    padding-top: 80px;
-    padding-right: 80px;
-}
-.collegegirl{
-  position: relative;
-    bottom: 306px;
-    left: 530px;
-}
-  .boy{
+.text{
+  width: 70%;
     position: relative;
-        bottom: 504px;
-        height: 800px;
-        left: 390px;
-
-  }
-  .techgirl{
-    position: absolute;
-    top: 1925px;
-    right:300px;
-  }
+    left: 180px;
+    text-align: center;
+}
+h1{
+  align-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+.p1{
+  padding-top: 30px;
+}
